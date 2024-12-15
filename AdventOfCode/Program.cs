@@ -1,3 +1,3 @@
-﻿using ConsoleApp2.Day11;
+﻿using ConsoleApp2.Day12;
 
-Console.WriteLine(new Day11().Part2());
+Console.WriteLine(new Day12().Part2());
